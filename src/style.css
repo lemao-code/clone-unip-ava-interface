@@ -1,0 +1,13 @@
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(54,131,195);
+    -webkit-text-size-adjust: none;
+    -webkit-font-smoothing: antialiased;
+}
+@font-face {
+    font-family: "Megrim";
+    src: url('./fonts/megrimregular.ttf') format('opentype');
+}
